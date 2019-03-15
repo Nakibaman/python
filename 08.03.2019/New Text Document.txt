@@ -1,0 +1,5 @@
+Enter your first name :
+Nakib
+Enter your last name :
+Aman
+Your full name is : NakibAman
